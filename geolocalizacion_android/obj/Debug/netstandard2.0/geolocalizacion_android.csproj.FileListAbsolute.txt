@@ -1,0 +1,15 @@
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\bin\Debug\netstandard2.0\geolocalizacion_android.deps.json
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\bin\Debug\netstandard2.0\geolocalizacion_android.dll
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\bin\Debug\netstandard2.0\ref\geolocalizacion_android.dll
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\bin\Debug\netstandard2.0\geolocalizacion_android.pdb
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.csproj.AssemblyReference.cache
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.AssemblyInfoInputs.cache
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.AssemblyInfo.cs
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.csproj.CoreCompileInputs.cache
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.dll
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\refint\geolocalizacion_android.dll
+C:\Users\APLICACIONES MOVILES\source\repos\geolocalizacion_android\geolocalizacion_android\obj\Debug\netstandard2.0\geolocalizacion_android.pdb

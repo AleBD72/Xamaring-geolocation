@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8R+fukY2mTlZ9Rxe5svarwQA8Bm8Bcp2Yd3eHAajM4H8f/jSIR6OASBJgOQSP6vZaWjW1LrFVgBnqcHINPyWQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APLICACIONES MOVILES\\source\\repos\\geolocalizacion_android\\geolocalizacion_android\\geolocalizacion_android.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.essentials\\1.7.7\\xamarin.essentials.1.7.7.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms\\5.0.0.2578\\xamarin.forms.5.0.0.2578.nupkg.sha512",
+    "C:\\Users\\APLICACIONES MOVILES\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2578\\xamarin.forms.maps.5.0.0.2578.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.geolocalizacion_android">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33" />
+	<application android:label="geolocalizacion_android.Android" android:theme="@style/MainTheme">
+        <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyDtII_Z-RwzcwNr_YN-iVlg2R93Uga085A" />
+    </application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
